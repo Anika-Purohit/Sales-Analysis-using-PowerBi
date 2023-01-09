@@ -1,11 +1,11 @@
 # Sales-Analysis-using-PowerBi
-Data used for power Bi analysis is added in this repositry.
+**Data used for power Bi analysis is added in this repositry.**
 
-Steps Followed:
+**Steps Followed:**
 
-**a) Used Power Bi's query editor to clean the data from various tables and applied the changes.**
+**a) Used Power Bi's query editor to clean the data from various tables.**
  
-b) Created entity relationship data model.
+**b) Created entity relationship data model.**
 
 ![Screenshot (465)](https://user-images.githubusercontent.com/99244447/211257909-0123e550-fa6f-4d16-a8f6-3316cfa5adf7.png)
 
